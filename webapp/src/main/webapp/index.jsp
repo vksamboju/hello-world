@@ -4,4 +4,4 @@
 
 <h3>Making a change to test Poll SCM</h3>
 
-<h3>Making a change to test Ansible playbook using pollscm</h3>
+<h3>Making a change to test Ansible playbook using pollscm.</h3>
